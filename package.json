@@ -1,0 +1,16 @@
+{
+  "name": "node-fping",
+  "version": "0.0.1",
+  "description": "A simple wrapper for fping",
+  "repository": "https://github.com/penguinpowernz/node-fping.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fping",
+    "ping"
+  ],
+  "author": "Robert McLeod",
+  "license": "MIT"
+}
