@@ -1,6 +1,6 @@
 {
   "name": "node-fping",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple wrapper for fping",
   "repository": "https://github.com/penguinpowernz/node-fping.git",
   "main": "index.js",

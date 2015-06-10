@@ -13,7 +13,7 @@ sudo apt-get install fping
 ## Installation
 
 ```sh
-npm install fping
+npm install node-fping
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ npm install fping
 Here is a usage example, with the results of just me hotspotted to my phone:
 
 ```js
-var fping = require('fping').subnet; // aliased to .network
+var fping = require('node-fping').subnet; // aliased to .network
 
 fping('192.168.43.0/24', function(err, hosts) {
   // outputs: [  '192.168.43.1' , '192.168.43.63'  ]
